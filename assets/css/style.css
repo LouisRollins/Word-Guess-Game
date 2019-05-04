@@ -25,3 +25,12 @@ h1{
     text-align: center;
 }
 
+p{
+    display: inline;
+    font-family: 'bangers', 'cursive';
+    font-size: 36px;
+}
+
+#guesses-left{
+    text-align: center;
+}
